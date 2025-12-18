@@ -10,7 +10,7 @@ This project is lightweight, responsive, and designed to demonstrate essential f
 ## 🌐 Live Demo
 
 🔗 The website is deployed here:  
-https://tusharnankani.github.io/AnalogClock/
+https://aviraljaiswal.github.io/Virtual-Analog-clock/
 
 ---
 
