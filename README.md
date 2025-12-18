@@ -61,6 +61,3 @@ AnalogClock/
 ├── style.css     # Clock styling and layout
 ├── script.js     # Time logic and hand movement
 └── README.md     # Project documentation
-
-
-
